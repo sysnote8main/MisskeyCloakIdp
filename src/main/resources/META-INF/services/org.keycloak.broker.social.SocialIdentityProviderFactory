@@ -1,0 +1,2 @@
+com.sysnote8.misskeycloakidp.provider.MisskeyOAuthIdentityProviderFactory
+com.sysnote8.misskeycloakidp.provider.miauth.MiAuthIdentityProviderFactory
